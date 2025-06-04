@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040349
+# Name: TAUQIR AHMED S
+# Date: 02/04/2025
 
 
 # AIM:
@@ -50,7 +50,7 @@ Specifying the context and requirements of a system
 
 
 
-
+![Screenshot 2025-06-04 085057](https://github.com/user-attachments/assets/0f9fd3ea-aeef-41d3-9795-3b7f2a9d7622)
 
 
 
@@ -68,6 +68,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![Screenshot 2025-06-04 085315](https://github.com/user-attachments/assets/55f7f6d4-f9ad-489c-abe4-fdbc7dee75a8)
 
 
 # COMMUNICTION DIAGRAM:
@@ -77,6 +78,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+![Screenshot 2025-06-04 085641](https://github.com/user-attachments/assets/fa531ef7-f77d-49c8-981b-e02721510717)
 
 
 # PACKAGE DIAGRAM:
@@ -89,6 +91,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+![Screenshot 2025-06-04 085727](https://github.com/user-attachments/assets/60022256-eaec-43a2-9980-92946a84578d)
 
 
 
@@ -107,6 +110,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+![Screenshot 2025-06-04 085902](https://github.com/user-attachments/assets/a66bd7a7-fdca-4d4c-9497-c27125212340)
 
 
 
@@ -128,6 +132,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+![Screenshot 2025-06-04 090045](https://github.com/user-attachments/assets/1fc17f27-1b0d-4bbf-998d-5e498a7d5e5b)
 
 
 
